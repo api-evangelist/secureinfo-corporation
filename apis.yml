@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://www.secureinfo.com/', status: 301, note: 'declared website redirects to https://www.kratoscyber.com/ — a different registrable domain (secureinfo.com -> kratoscyber.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/secureinfo-corporation.png
 name: SecureInfo Corporation
 description: SecureInfo Corporation was a cybersecurity and information-assurance company focused on FISMA
