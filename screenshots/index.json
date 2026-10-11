@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "secureinfo-corporation",
+    "captured_at": "2026-10-11T192404",
+    "source_url": "http://www.secureinfo.com/",
+    "source_type": "Website",
+    "file": "secureinfo-corporation-2026-10-11T192404.png",
+    "bytes": 757764,
+    "capture": "playwright-local"
+  }
+]
